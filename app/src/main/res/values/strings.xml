@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+
+    //Testing strings and error message when no internet/no json data/no response
+    <string name="error_response">Error Response Code:  </string>
+    <string name="error_json_data">Error Receiving JSON Data</string>
+
+    //Settings Menu Items
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">My News App Settings</string>
+    <string name="object_response">response</string>
+    <string name="array_results">results</string>
+
+    //Name tags
+
+    <string name="noAuthor">noAuthor</string>
+    <string name="get_method">GET</string>
+
+
+    <!-- Strings For Minimum Preference [CHAR LIMIT=30] -->
+    <string name="settings_number_preference">Title</string>
+    <string name="settings_number_key" translatable="false">min_stories</string>
+    <string name="settings_min_default" translatable="false">Order By</string>
+</resources>
